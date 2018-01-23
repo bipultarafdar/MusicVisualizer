@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ParticleSystem1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cgproject\particlesystem4\particlesystem1\source.cpp(183): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cgproject\particlesystem4\particlesystem1\source.cpp(199): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cgproject\particlesystem4\particlesystem1\source.cpp(226): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cgproject\particlesystem4\particlesystem1\source.cpp(244): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cgproject\particlesystem4\particlesystem1\source.cpp(245): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cgproject\particlesystem4\particlesystem1\source.cpp(246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cgproject\particlesystem4\particlesystem1\source.cpp(247): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cgproject\particlesystem4\particlesystem1\source.cpp(262): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  ParticleSystem1.vcxproj -> C:\Users\bipul\OneDrive\Documents\Visual Studio 2015\Projects\CGProject\ParticleSystem4\x64\Debug\ParticleSystem4.exe
+  ParticleSystem1.vcxproj -> C:\Users\bipul\OneDrive\Documents\Visual Studio 2015\Projects\CGProject\ParticleSystem4\x64\Debug\ParticleSystem4.pdb (Partial PDB)
